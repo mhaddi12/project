@@ -26,7 +26,7 @@ export function Hero() {
                 Muhammad Haddi
               </motion.h1>
               <motion.h1
-                className="text-4xl font-bold tracking-tight"
+                className="text-3xl font-bold tracking-tight"
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.2 }}
