@@ -40,7 +40,8 @@ export function Hero() {
                 transition={{ delay: 0.3 }}
               >
                 Crafting beautiful, performant mobile experiences with Flutter
-                and Dart
+                and Dart, and building robust, scalable backend solutions with
+                Node.js and Express.
               </motion.p>
               <motion.div
                 className="flex gap-4"
