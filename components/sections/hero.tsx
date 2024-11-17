@@ -31,7 +31,7 @@ export function Hero() {
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.2 }}
               >
-                Soetware Engineer | Flutter and Node.js/Express Developer
+                Software Engineer | Flutter and Node.js/Express Developer
               </motion.h1>
               <motion.p
                 className="text-xl text-muted-foreground"
