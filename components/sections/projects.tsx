@@ -21,7 +21,7 @@ const projects = [
     tech: ["Flutter", "Firebase", "Custom Animations", "GetX"]
   },
   {
-    title: "Go and Go",
+    title: "Go and Do",
     description: "Social media platform connecting people through shared interests and activities.",
     icon: <Share2 className="h-8 w-8" />,
     image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800&h=400",
